@@ -18,8 +18,6 @@ public class Main {
         int[] arr = new int[5];
         printArray(arr);
         fillArray(arr);
-        for (int i = 0; i < arr.length; i++) {
-            System.out.println(arr[i]);
-        }
+        printArray(arr);
     }
 }

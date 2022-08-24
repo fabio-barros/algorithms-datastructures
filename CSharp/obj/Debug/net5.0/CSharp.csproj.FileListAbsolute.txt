@@ -5,7 +5,6 @@ F:\GitHub\algorithms-datastructures\CSharp\bin\Debug\net5.0\CSharp.runtimeconfig
 F:\GitHub\algorithms-datastructures\CSharp\bin\Debug\net5.0\CSharp.dll
 F:\GitHub\algorithms-datastructures\CSharp\bin\Debug\net5.0\ref\CSharp.dll
 F:\GitHub\algorithms-datastructures\CSharp\bin\Debug\net5.0\CSharp.pdb
-F:\GitHub\algorithms-datastructures\CSharp\obj\Debug\net5.0\CSharp.csprojAssemblyReference.cache
 F:\GitHub\algorithms-datastructures\CSharp\obj\Debug\net5.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
 F:\GitHub\algorithms-datastructures\CSharp\obj\Debug\net5.0\CSharp.AssemblyInfoInputs.cache
 F:\GitHub\algorithms-datastructures\CSharp\obj\Debug\net5.0\CSharp.AssemblyInfo.cs
@@ -14,3 +13,4 @@ F:\GitHub\algorithms-datastructures\CSharp\obj\Debug\net5.0\CSharp.dll
 F:\GitHub\algorithms-datastructures\CSharp\obj\Debug\net5.0\ref\CSharp.dll
 F:\GitHub\algorithms-datastructures\CSharp\obj\Debug\net5.0\CSharp.pdb
 F:\GitHub\algorithms-datastructures\CSharp\obj\Debug\net5.0\CSharp.genruntimeconfig.cache
+F:\GitHub\algorithms-datastructures\CSharp\obj\Debug\net5.0\CSharp.csproj.AssemblyReference.cache

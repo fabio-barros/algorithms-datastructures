@@ -24,7 +24,7 @@ int main()
     fill(arr, 10);
     print(arr, 10);
 
-    arr = new int[15]();
+    arr = new int[15];
 
     print(arr, 15);
     return 0;

@@ -1,0 +1,16 @@
+F:\GitHub\algorithms-datastructures\values\bin\Debug\net5.0\CSharp.exe
+F:\GitHub\algorithms-datastructures\values\bin\Debug\net5.0\CSharp.deps.json
+F:\GitHub\algorithms-datastructures\values\bin\Debug\net5.0\CSharp.runtimeconfig.json
+F:\GitHub\algorithms-datastructures\values\bin\Debug\net5.0\CSharp.runtimeconfig.dev.json
+F:\GitHub\algorithms-datastructures\values\bin\Debug\net5.0\CSharp.dll
+F:\GitHub\algorithms-datastructures\values\bin\Debug\net5.0\ref\CSharp.dll
+F:\GitHub\algorithms-datastructures\values\bin\Debug\net5.0\CSharp.pdb
+F:\GitHub\algorithms-datastructures\values\obj\Debug\net5.0\CSharp.csproj.AssemblyReference.cache
+F:\GitHub\algorithms-datastructures\values\obj\Debug\net5.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\algorithms-datastructures\values\obj\Debug\net5.0\CSharp.AssemblyInfoInputs.cache
+F:\GitHub\algorithms-datastructures\values\obj\Debug\net5.0\CSharp.AssemblyInfo.cs
+F:\GitHub\algorithms-datastructures\values\obj\Debug\net5.0\CSharp.csproj.CoreCompileInputs.cache
+F:\GitHub\algorithms-datastructures\values\obj\Debug\net5.0\CSharp.dll
+F:\GitHub\algorithms-datastructures\values\obj\Debug\net5.0\ref\CSharp.dll
+F:\GitHub\algorithms-datastructures\values\obj\Debug\net5.0\CSharp.pdb
+F:\GitHub\algorithms-datastructures\values\obj\Debug\net5.0\CSharp.genruntimeconfig.cache

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\GitHub\\algorithms-datastructures\\CSharp\\CSharp.csproj",
+      "projectUniqueName": "F:\\GitHub\\algorithms-datastructures\\values\\CSharp.csproj",
       "projectName": "CSharp",
-      "projectPath": "F:\\GitHub\\algorithms-datastructures\\CSharp\\CSharp.csproj",
+      "projectPath": "F:\\GitHub\\algorithms-datastructures\\values\\CSharp.csproj",
       "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
-      "outputPath": "F:\\GitHub\\algorithms-datastructures\\CSharp\\obj\\",
+      "outputPath": "F:\\GitHub\\algorithms-datastructures\\values\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",

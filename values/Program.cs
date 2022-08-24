@@ -1,10 +1,6 @@
 ﻿using System;
-using CSharp.Stacks;
-
-//Programas declaram tipos -> Interfaces, Classes...
-//  Campos, Métodos, propriedades e eventos são exemplos de membros
-// Nome do Projeto é 
-namespace CSharp
+ 
+namespace values
 {
     class Program
     {
